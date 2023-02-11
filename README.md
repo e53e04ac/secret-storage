@@ -4,9 +4,6 @@
 npm install e53e04ac/secret-storage
 ~~~~~
 
-~~~~~ mjs
-~~~~~
-
 ~~~~~ mermaid
 graph LR;
   A(["secret-storage"]);
