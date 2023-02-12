@@ -16,8 +16,6 @@ graph RL;
 
 ~~~~~ mermaid
 graph RL;
-  subgraph "e53e04ac/secret-storage";
-  end;
   M(["index.mjs"])
 ~~~~~
 
